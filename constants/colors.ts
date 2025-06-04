@@ -1,0 +1,17 @@
+export default {
+  primary: '#4A90E2',
+  secondary: '#A78BFA',
+  accent: '#F472B6',
+  background: '#F9FAFB',
+  card: '#FFFFFF',
+  text: '#1F2937',
+  textSecondary: '#4B5563',
+  textLight: '#9CA3AF',
+  border: '#E5E7EB',
+  success: '#10B981',
+  error: '#EF4444',
+  warning: '#F59E0B',
+  info: '#3B82F6',
+  overlay: 'rgba(0, 0, 0, 0.5)',
+  transparent: 'transparent',
+};
